@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "name": "Ore Extractor",
+    "categoryID": 1,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/OreExtractor.png"
+  },
+  {
+    "id": 2,
+    "name": "Ore Smelter",
+    "categoryID": 2,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/OreSmelter.png"
+  },
+  {
+    "id": 3,
+    "name": "Power Storage Block",
+    "categoryID": 3,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/PowerStorageBlock.png"
+  },
+  {
+    "id": 4,
+    "name": "Solar Panel",
+    "categoryID": 4,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/SolarPanel.png"
+  },
+  {
+    "id": 5,
+    "name": "Basic Laser Energy Transmitter",
+    "categoryID": 5,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/BasicLaserEnergyTransmitter.png"
+  },
+  {
+    "id": 6,
+    "name": "Ore Thief",
+    "categoryID": 6,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/OreThief.png"
+  },
+  {
+    "id": 7,
+    "name": "MiniHopper",
+    "categoryID": 7,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/MiniHopper.png"
+  },
+  {
+    "id": 8,
+    "name": "Hydroject Cutter",
+    "categoryID": 8,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/HydrojectCutter.png"
+  },
+  {
+    "id": 9,
+    "name": "ARTHER Power Core",
+    "categoryID": 9,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/ARTHERPowerCore.png"
+  },
+  {
+    "id": 10,
+    "name": "Wooden Planks",
+    "categoryID": 10,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/WoodenPlanks.png"
+  },
+  {
+    "id": 11,
+    "name": "Torch",
+    "categoryID": 11,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/Torch.png"
+  },
+  {
+    "id": 12,
+    "name": "Iron Gear",
+    "categoryID": 12,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/IronGear.png"
+  },
+  {
+    "id": 13,
+    "name": "Minecart Depot",
+    "categoryID": 13,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/MinecartDepot.png"
+  },
+  {
+    "id": 14,
+    "name": "Primary Upgrade Module Maker",
+    "categoryID": 14,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/PrimaryUpgradeModuleMaker.png"
+  },
+  {
+    "id": 15,
+    "name": "Particle Filter",
+    "categoryID": 15,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/ParticleFilter.png"
+  },
+  {
+    "id": 16,
+    "name": "Red Canvas",
+    "categoryID": 16,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/RedCanvas.png"
+  },
+  {
+    "id": 17,
+    "name": "ConstructoBot Direction",
+    "categoryID": 17,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/ConstructoBotDirection.png"
+  },
+  {
+    "id": 18,
+    "name": "Airlock Inner",
+    "categoryID": 18,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/AirlockInner.png"
+  },
+  {
+    "id": 19,
+    "name": "Test Object 1",
+    "categoryID": 12,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/TestObject1.png"
+  },
+  {
+    "id": 20,
+    "name": "Test Object 2",
+    "categoryID": 12,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/TestObject2.png"
+  },
+  {
+    "id": 21,
+    "name": "Test Object 3",
+    "categoryID": 12,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/TestObject3.png"
+  },
+  {
+    "id": 22,
+    "name": "Test Object 4",
+    "categoryID": 12,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/TestObject4.png"
+  },
+  {
+    "id": 23,
+    "name": "Test Object 5",
+    "categoryID": 12,
+    "img_src": "https://brankovanquickenborne.github.io/pictures/FCEObject/TestObject5.png"
+  }
+]
