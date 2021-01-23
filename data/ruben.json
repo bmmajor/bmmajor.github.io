@@ -1,0 +1,2936 @@
+[
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "bede3af7c3f9ee37ff0f3853f4cb63f2d7cb5882",
+    "fields": {
+      "website": "http://www.donboscosdw.be",
+      "aanbod": "SO",
+      "schoolnummer": "126177",
+      "straat": "Kortrijksesteenweg",
+      "gemeente": "SINT-DENIJS-WESTREM",
+      "vestigingsnr": "1",
+      "globalid": "7c1d3d84-cd3c-4f39-896c-9bb880f0fc32",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.699697067643577, 51.02259672585652 ]
+      },
+      "naam": "Don Bosco Technisch Instituut E.G.",
+      "onderwijsnet": "KO",
+      "gentid": "OND054",
+      "geo_point_2d": [ 51.0225967259, 3.69969706764 ],
+      "roepnaam": "Don Bosco Technisch Instituut E.G.",
+      "postcode": "9051",
+      "huisnr": "1025",
+      "schoolnr": "126177",
+      "email": "demuynckpeter@donboscosdw.be",
+      "telefoon": "09-221.31.11"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.69969706764, 51.0225967259 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "7612cabac0bfc0c609e9ceab25a28a4520a1ebf0",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "116749",
+      "straat": "Bargiekaai",
+      "gemeente": "GENT",
+      "vestigingsnr": "3",
+      "globalid": "8019bdd1-70e7-4394-8f0b-700b52dc4e38",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.708333857825025, 51.058054423761554 ]
+      },
+      "naam": "Het Spectrum Gent",
+      "onderwijsnet": "OSG",
+      "gentid": "OND096",
+      "geo_point_2d": [ 51.0580544238, 3.70833385783 ],
+      "roepnaam": "Het Spectrum Gent",
+      "postcode": "9000",
+      "huisnr": "1",
+      "schoolnr": "116749",
+      "telefoon": "09-225.42.01"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.70833385783, 51.0580544238 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "f0c95b94df8143235303ddd8ddc395e211d96366",
+    "fields": {
+      "website": "http://www.benedictuspoort.be",
+      "aanbod": "SO",
+      "schoolnummer": "126441",
+      "straat": "Hundelgemsesteenweg",
+      "gemeente": "LEDEBERG",
+      "vestigingsnr": "1",
+      "globalid": "f741b38f-3f21-4af9-a7f3-27b8ff7bcb00",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.739277243485114, 51.03540883406609 ]
+      },
+      "naam": "BenedictusPoort campus Ledeberg",
+      "onderwijsnet": "KO",
+      "gentid": "OND294",
+      "geo_point_2d": [ 51.0354088341, 3.73927724349 ],
+      "roepnaam": "BenedictusPoort campus Ledeberg",
+      "postcode": "9050",
+      "huisnr": "93",
+      "schoolnr": "126441",
+      "email": "campus.ledeberg@benedictuspoort.be",
+      "telefoon": "09-231.23.48"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.73927724349, 51.0354088341 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "b43896a5fa5b73e25967f0b5429eb02b6ca13ec1",
+    "fields": {
+      "website": "http://sint-barbara.be",
+      "aanbod": "SO",
+      "schoolnummer": "36962",
+      "straat": "Savaanstraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "488c6ddd-3ae0-48b3-a6fb-72161fc99096",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.724676256505214, 51.04902068571232 ]
+      },
+      "naam": "Sint-Barbaracollege",
+      "onderwijsnet": "KO",
+      "gentid": "OND216",
+      "geo_point_2d": [ 51.0490206857, 3.72467625651 ],
+      "roepnaam": "Sint-Barbaracollege",
+      "postcode": "9000",
+      "huisnr": "33",
+      "schoolnr": "36962",
+      "email": "info@sint-barbara.be",
+      "telefoon": "09-235.72.50"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.72467625651, 51.0490206857 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "c13dc56a0b7e3c2ce6af6f473f9ebc6e3c4ec14c",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "127548",
+      "straat": "Marathonstraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "2",
+      "globalid": "6019410c-1a0e-4b52-817c-58d4daf9bf16",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.698702711117073, 51.04130694201268 ]
+      },
+      "naam": "Sint-Paulusinstituut 2",
+      "onderwijsnet": "KO",
+      "gentid": "OND052",
+      "geo_point_2d": [ 51.041306942, 3.69870271112 ],
+      "roepnaam": "Sint-Paulusinstituut 2",
+      "postcode": "9000",
+      "huisnr": "35",
+      "schoolnr": "127548",
+      "telefoon": "09-221.15.33"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.69870271112, 51.041306942 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "c8e4b1d231493a2042c5fce96c60ef09cc093dd0",
+    "fields": {
+      "website": "http://www.dbz.be",
+      "aanbod": "SO",
+      "schoolnummer": "38604",
+      "straat": "Grotesteenweg-Noord",
+      "gemeente": "ZWIJNAARDE",
+      "vestigingsnr": "1",
+      "globalid": "a01d8f86-126d-4164-96d4-142a9b7c5f83",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.703500394542241, 51.01371874618964 ]
+      },
+      "naam": "Don Boscocollege",
+      "onderwijsnet": "KO",
+      "gentid": "OND067",
+      "geo_point_2d": [ 51.0137187462, 3.70350039454 ],
+      "roepnaam": "Don Boscocollege",
+      "postcode": "9052",
+      "huisnr": "113",
+      "schoolnr": "38604",
+      "email": "info@dbz.be",
+      "telefoon": "09-221.46.48"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.70350039454, 51.0137187462 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "23e1c2acf8eab0d4bbe4703a9351e428e4201927",
+    "fields": {
+      "website": "http://www.nieuwenbosch.be",
+      "aanbod": "SO",
+      "schoolnummer": "37028",
+      "straat": "Lange Violettestraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "03052a31-99db-4e23-84ab-3ff410beb6fa",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.734326474587885, 51.04725716393251 ]
+      },
+      "naam": "Humaniora Nieuwen Bosch",
+      "onderwijsnet": "KO",
+      "gentid": "OND277",
+      "geo_point_2d": [ 51.0472571639, 3.73432647459 ],
+      "roepnaam": "Humaniora Nieuwen Bosch",
+      "postcode": "9000",
+      "huisnr": "65",
+      "schoolnr": "37028",
+      "email": "ulrik.deroover@nieuwenbosch.be",
+      "telefoon": "09-223.96.08"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.73432647459, 51.0472571639 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "5993e13da92807eea0a85c06c85aff0e890bede8",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "127894",
+      "straat": "Jef Crickstraat",
+      "gemeente": "SINT-AMANDSBERG",
+      "vestigingsnr": "2",
+      "globalid": "8b035d7d-645b-4f6c-a339-d3cb72f21489",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.762868665210016, 51.063291238383194 ]
+      },
+      "naam": "GO! technisch atheneum - GITO Groenkouter Sint-Amandsberg",
+      "onderwijsnet": "GO",
+      "gentid": "OND359",
+      "geo_point_2d": [ 51.0632912384, 3.76286866521 ],
+      "roepnaam": "GO! technisch atheneum - GITO Groenkouter Sint-Amandsberg",
+      "postcode": "9040",
+      "huisnr": "61",
+      "schoolnr": "127894",
+      "email": "inlichtingen@atheneum-groenkouter.be",
+      "telefoon": "09-218.76.21"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.76286866521, 51.0632912384 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "29577ab71a4461328786be7184e10c1f66c65264",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "122382",
+      "straat": "Ganzendries",
+      "gemeente": "GENT",
+      "vestigingsnr": "6",
+      "globalid": "0ba70f84-0007-4f18-a499-2af33e160ed6",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.710526804669103, 51.03294154781502 ]
+      },
+      "naam": "Vrije Nederlandstalige school Lucerna College",
+      "onderwijsnet": "KO",
+      "gentid": "OND116",
+      "geo_point_2d": [ 51.0329415478, 3.71052680467 ],
+      "roepnaam": "Vrije Nederlandstalige school Lucerna College",
+      "postcode": "9000",
+      "huisnr": "149",
+      "schoolnr": "122382",
+      "telefoon": "09-329.71.92"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71052680467, 51.0329415478 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "357aa72cad3ff5795fc9b377d1dfb499173a7d87",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "37069",
+      "straat": "Jozef Guislainstraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "4",
+      "globalid": "78148c2f-87f9-4c84-8285-46fc0a070508",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.703211617449847, 51.066187889152765 ]
+      },
+      "naam": "Instituut voor Verpleegkunde Sint-Vincentius",
+      "onderwijsnet": "KO",
+      "gentid": "OND068",
+      "geo_point_2d": [ 51.0661878892, 3.70321161745 ],
+      "roepnaam": "Instituut voor Verpleegkunde Sint-Vincentius",
+      "postcode": "9000",
+      "huisnr": "43",
+      "schoolnr": "37069",
+      "telefoon": "09-216.35.50"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.70321161745, 51.0661878892 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "35b6242b10656dc6c7b3bdac437091b8a3126afd",
+    "fields": {
+      "website": "http://www.ivv-gent.be",
+      "aanbod": "SO",
+      "schoolnummer": "37069",
+      "straat": "Molenaarsstraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "5af61c42-a206-40e3-807b-16137ab1cb5b",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.718184013504919, 51.0615880130011 ]
+      },
+      "naam": "Instituut voor Verpleegkunde Sint-Vincentius",
+      "onderwijsnet": "KO",
+      "gentid": "OND189",
+      "geo_point_2d": [ 51.061588013, 3.7181840135 ],
+      "roepnaam": "Instituut voor Verpleegkunde Sint-Vincentius",
+      "postcode": "9000",
+      "huisnr": "30",
+      "schoolnr": "37069",
+      "email": "ivv@ivv-gent.be",
+      "telefoon": "09-235.82.40"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.7181840135, 51.061588013 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "eded3e1494c537b62786df7315e8c9a783a10e1d",
+    "fields": {
+      "aanbod": "BuSO",
+      "schoolnummer": "28191",
+      "straat": "Krevelstraat",
+      "vestigingsnr": "2",
+      "globalid": "358b1d24-0641-4eb6-a525-dd41f30854b6",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.736795565869729, 51.04182291232151 ]
+      },
+      "naam": "Stedelijk Buitengewoon Secundair Onderwijs Instituut Bert Carlier",
+      "onderwijsnet": "OSG",
+      "gentid": "OND292",
+      "geo_point_2d": [ 51.0418229123, 3.73679556587 ],
+      "roepnaam": "Stedelijk Buitengewoon Secundair Onderwijs Instituut Bert Carlier",
+      "postcode": "9000",
+      "huisnr": "20",
+      "schoolnr": "28191",
+      "gemeente": "GENT"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.73679556587, 51.0418229123 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "c40c0621fb19c9effe6b4c8bd45ecc90a26244cb",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "37069",
+      "straat": "Lange Violettestraat",
+      "vestigingsnr": "7",
+      "globalid": "872da89a-d895-44c1-ab98-1a3d77f37087",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.734256898601675, 51.04818268574883 ]
+      },
+      "naam": "Instituut voor Verpleegkunde Sint-Vincentius",
+      "onderwijsnet": "KO",
+      "gentid": "OND276",
+      "geo_point_2d": [ 51.0481826857, 3.7342568986 ],
+      "roepnaam": "Instituut voor Verpleegkunde Sint-Vincentius",
+      "postcode": "9000",
+      "huisnr": "29",
+      "schoolnr": "37069",
+      "gemeente": "GENT"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.7342568986, 51.0481826857 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "c8e45ec28e019c9838a4e6411d1b83c1d4b23940",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "112102",
+      "straat": "Offerlaan",
+      "gemeente": "GENT",
+      "vestigingsnr": "5",
+      "globalid": "7f3ebe32-ac80-4b13-8283-288c6102380b",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.710462325120436, 51.045652105740196 ]
+      },
+      "naam": "Atheneum Wispelberg",
+      "onderwijsnet": "OSG",
+      "gentid": "OND117",
+      "geo_point_2d": [ 51.0456521057, 3.71046232512 ],
+      "roepnaam": "Atheneum Wispelberg",
+      "postcode": "9000",
+      "huisnr": "1",
+      "schoolnr": "112102",
+      "telefoon": "09-269.33.00"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71046232512, 51.0456521057 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "7e312684840141aca0144b659e1cd67fd59186c8",
+    "fields": {
+      "website": "http://sint-barbara.be",
+      "aanbod": "SO",
+      "schoolnummer": "126649",
+      "straat": "Savaanstraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "e088408f-a69e-4d70-a4c3-d9019cdf21fe",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.724676256505214, 51.04902068571232 ]
+      },
+      "naam": "Sint-Barbaracollege I",
+      "onderwijsnet": "KO",
+      "gentid": "OND215",
+      "geo_point_2d": [ 51.0490206857, 3.72467625651 ],
+      "roepnaam": "Sint-Barbaracollege I",
+      "postcode": "9000",
+      "huisnr": "33",
+      "schoolnr": "126649",
+      "email": "info@sint-barbara.be",
+      "telefoon": "09-235.72.50"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.72467625651, 51.0490206857 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "8bb81dad22bb20d0199fdedad76bc090a7dc9a1c",
+    "fields": {
+      "website": "http://www.sbhg.be",
+      "aanbod": "SO",
+      "schoolnummer": "112169",
+      "straat": "Reep",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "c8ca71c7-a250-4003-92ec-983b50783843",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.72977649809252, 51.05254526158114 ]
+      },
+      "naam": "Sint-Bavohumaniora Middenschool",
+      "onderwijsnet": "KO",
+      "gentid": "OND251",
+      "geo_point_2d": [ 51.0525452616, 3.72977649809 ],
+      "roepnaam": "Sint-Bavohumaniora Middenschool",
+      "postcode": "9000",
+      "huisnr": "4",
+      "schoolnr": "112169",
+      "email": "sint.bavohumaniora@sbhg.be",
+      "telefoon": "09-267.96.11"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.72977649809, 51.0525452616 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "f574453ae78b50d22bbb575181bd7b94682d29af",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "36939",
+      "straat": "Kuiperskaai",
+      "gemeente": "GENT",
+      "vestigingsnr": "3",
+      "globalid": "2ecdedeb-4c77-4a2a-9c41-8cd8db2e8364",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.729672594375574, 51.04866132997634 ]
+      },
+      "naam": "Vrij Instituut voor Secundair Onderwijs - Gent",
+      "onderwijsnet": "KO",
+      "gentid": "OND249",
+      "geo_point_2d": [ 51.04866133, 3.72967259438 ],
+      "roepnaam": "Vrij Instituut voor Secundair Onderwijs - Gent",
+      "postcode": "9000",
+      "huisnr": "55",
+      "schoolnr": "36939",
+      "telefoon": "09-223.04.68"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.72967259438, 51.04866133 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "ab3f1a355d0898107165f604182dc949692489d4",
+    "fields": {
+      "website": "http://www.olvigent.be",
+      "aanbod": "SO",
+      "schoolnummer": "105395",
+      "straat": "Tweebruggenstraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "2342e828-2620-44a7-9b4e-ba37fa698fd6",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.735951282430211, 51.04838056533045 ]
+      },
+      "naam": "Onze-Lieve-Vrouwe-Instituut",
+      "onderwijsnet": "KO",
+      "gentid": "OND281",
+      "geo_point_2d": [ 51.0483805653, 3.73595128243 ],
+      "roepnaam": "Onze-Lieve-Vrouwe-Instituut",
+      "postcode": "9000",
+      "huisnr": "55",
+      "schoolnr": "105395",
+      "email": "directie@olvigent.be",
+      "telefoon": "09-225.46.44"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.73595128243, 51.0483805653 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "c67c334a7c06c3a85d37465fb5d9e0f8283f9c94",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "115361",
+      "straat": "Heiveldstraat",
+      "gemeente": "SINT-AMANDSBERG",
+      "vestigingsnr": "2",
+      "globalid": "1115692a-35df-440d-89b7-c021dc72fffa",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.756278546651763, 51.06324821762313 ]
+      },
+      "naam": "Sint-Janscollege eerste graad",
+      "onderwijsnet": "KO",
+      "gentid": "OND340",
+      "geo_point_2d": [ 51.0632482176, 3.75627854665 ],
+      "roepnaam": "Sint-Janscollege eerste graad",
+      "postcode": "9040",
+      "huisnr": "117",
+      "schoolnr": "115361",
+      "email": "heiveld@sjc-gent.be",
+      "telefoon": "09-228.32.40"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.75627854665, 51.0632482176 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "6c963800888eff82e208e84e9389fc8319e8e47d",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "37655",
+      "straat": "Kortrijksesteenweg",
+      "gemeente": "GENT",
+      "vestigingsnr": "3",
+      "globalid": "c2640872-90b1-4dff-91bd-99edc21e1284",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.718347241457656, 51.04161471534645 ]
+      },
+      "naam": "GO! atheneum Merelbeke",
+      "onderwijsnet": "GO",
+      "gentid": "OND186",
+      "geo_point_2d": [ 51.0416147153, 3.71834724146 ],
+      "roepnaam": "GO! atheneum Merelbeke",
+      "postcode": "9000",
+      "huisnr": "12",
+      "schoolnr": "37655",
+      "telefoon": "09-220.10.70"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71834724146, 51.0416147153 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "bed5ac4b3d11f214a4a5a7c88d3582811539a242",
+    "fields": {
+      "website": "www.sint-jozef.org",
+      "aanbod": "BuSO",
+      "schoolnummer": "28209",
+      "straat": "Ebergiste De Deynestraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "6b409a58-b6fa-4dc3-bdc5-7fbc7909b17f",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.716385104252395, 51.01560664693144 ]
+      },
+      "naam": "Buitengewoon Secundair Onderwijs Sint-Jozef",
+      "onderwijsnet": "KO",
+      "gentid": "OND173",
+      "geo_point_2d": [ 51.0156066469, 3.71638510425 ],
+      "roepnaam": "Buitengewoon Secundair Onderwijs Sint-Jozef",
+      "postcode": "9000",
+      "huisnr": "1",
+      "schoolnr": "28209",
+      "email": "rosy.van.den.berge@sint-jozef.org",
+      "telefoon": "09-240.13.73"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71638510425, 51.0156066469 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "a81d35981aa9e9caa3e89a9bd12dec4d1d42d029",
+    "fields": {
+      "website": "http://www.sintpietersgent.be",
+      "aanbod": "SO",
+      "schoolnummer": "128025",
+      "straat": "Koning Albertlaan",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "127e9c36-8f02-44fc-a603-28041f55bf84",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.71084797337399, 51.03849875548602 ]
+      },
+      "naam": "Sint-Pietersinstituut eerstegraadsschool",
+      "onderwijsnet": "KO",
+      "gentid": "OND119",
+      "geo_point_2d": [ 51.0384987555, 3.71084797337 ],
+      "roepnaam": "Sint-Pietersinstituut eerstegraadsschool",
+      "postcode": "9000",
+      "huisnr": "70",
+      "schoolnr": "128025",
+      "email": "werner.claeys@sintpietersgent.be",
+      "telefoon": "09-222.14.52"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71084797337, 51.0384987555 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "4e0dadcb426a52e33d1f1a4d874f7a2c7d0e6397",
+    "fields": {
+      "website": "http://www.lucasgent.be/",
+      "aanbod": "SO",
+      "schoolnummer": "50658",
+      "straat": "Oude Houtlei",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "f9a29b1d-0807-4ede-96f4-33fb4e2b0736",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.716620252378448, 51.053003611836886 ]
+      },
+      "naam": "Kunsthumaniora Sint-Lucas",
+      "onderwijsnet": "KO",
+      "gentid": "OND179",
+      "geo_point_2d": [ 51.0530036118, 3.71662025238 ],
+      "roepnaam": "Kunsthumaniora Sint-Lucas",
+      "postcode": "9000",
+      "huisnr": "44",
+      "schoolnr": "50658",
+      "email": "secretariaat@lucasgent.be",
+      "telefoon": "09-224.08.76"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71662025238, 51.0530036118 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "be233a9a1287a686d30ee74bf4a126323a2d3cf5",
+    "fields": {
+      "website": "http://www.benedictuspoort.be",
+      "aanbod": "SO",
+      "schoolnummer": "126433",
+      "straat": "Kortrijksesteenweg",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "62c8b19e-8c70-4207-89bf-9af0122483a5",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.700581527291258, 51.02454345241233 ]
+      },
+      "naam": "BenedictusPoort campus Maria Middelares",
+      "onderwijsnet": "KO",
+      "gentid": "OND060",
+      "geo_point_2d": [ 51.0245434524, 3.70058152729 ],
+      "roepnaam": "BenedictusPoort campus Maria Middelares",
+      "postcode": "9000",
+      "huisnr": "1024",
+      "schoolnr": "126433",
+      "email": "dirk.flamant@benedictuspoort.be",
+      "telefoon": "09-222.37.82"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.70058152729, 51.0245434524 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "c493bd2bc49739fa67446cfafc337d1fef0fd452",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "36913",
+      "straat": "Gildestraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "2",
+      "globalid": "df7774d1-523a-4379-85f7-bee678eb52e2",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.73055559486395, 51.05503051839054 ]
+      },
+      "naam": "Sint-Lievenscollege Business",
+      "onderwijsnet": "KO",
+      "gentid": "OND256",
+      "geo_point_2d": [ 51.0550305184, 3.73055559486 ],
+      "roepnaam": "Sint-Lievenscollege Business",
+      "postcode": "9000",
+      "huisnr": "17",
+      "schoolnr": "36913",
+      "telefoon": "09/225.77.50"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.73055559486, 51.0550305184 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "d6e3e5eedb036e77097c1b68b80e7e9adbe31e76",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "43299",
+      "straat": "Barrestraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "2",
+      "globalid": "fa76e9f3-1a57-47bf-a96b-21becae55ea0",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.72946069824438, 51.05373912322061 ]
+      },
+      "naam": "GO! lyceum Gent",
+      "onderwijsnet": "GO",
+      "gentid": "OND245",
+      "geo_point_2d": [ 51.0537391232, 3.72946069824 ],
+      "roepnaam": "GO! lyceum Gent",
+      "postcode": "9000",
+      "huisnr": "6",
+      "schoolnr": "43299",
+      "telefoon": "09-223.86.24"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.72946069824, 51.0537391232 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "4bcd36825507ac0d9abb4056d4f672b2cdc21a6a",
+    "fields": {
+      "website": "http://www.sintpaulusgent.be",
+      "aanbod": "SO",
+      "schoolnummer": "127548",
+      "straat": "Patijntjestraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "21bb26dc-eb5d-4303-a343-b5fe4b71b471",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.707972882620223, 51.040163681654725 ]
+      },
+      "naam": "Sint-Paulusinstituut 2",
+      "onderwijsnet": "KO",
+      "gentid": "OND091",
+      "geo_point_2d": [ 51.0401636817, 3.70797288262 ],
+      "roepnaam": "Sint-Paulusinstituut 2",
+      "postcode": "9000",
+      "huisnr": "45",
+      "schoolnr": "127548",
+      "email": "info@sintpaulusgent.be",
+      "telefoon": "09-222.38.22"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.70797288262, 51.0401636817 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "b297cf725158bb88a3457dbc3b7b32db836587b7",
+    "fields": {
+      "website": "www.ivio-binnenhof.be",
+      "aanbod": "BuSO",
+      "schoolnummer": "28183",
+      "straat": "Peperstraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "73a06b57-cdf8-4b1a-831b-814f4f0455ae",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.714017904436753, 51.05551518154255 ]
+      },
+      "naam": "Instituut voor Buitengewoon Secundair Onderwijs Binnenhof",
+      "onderwijsnet": "KO",
+      "gentid": "OND155",
+      "geo_point_2d": [ 51.0555151815, 3.71401790444 ],
+      "roepnaam": "Instituut voor Buitengewoon Secundair Onderwijs Binnenhof",
+      "postcode": "9000",
+      "huisnr": "27",
+      "schoolnr": "28183",
+      "email": "directie@ivio-binnenhof.be",
+      "telefoon": "09-223.98.71"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71401790444, 51.0555151815 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "d9a4a17032174f72eb71df99e6b839323be24531",
+    "fields": {
+      "website": "http://atheneum-groenkouter.be/GO/",
+      "aanbod": "SO",
+      "schoolnummer": "127894",
+      "straat": "Sint-Baafskouterstraat",
+      "gemeente": "SINT-AMANDSBERG",
+      "vestigingsnr": "1",
+      "globalid": "67bb7750-7ebc-41dd-9c92-a063025ca176",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.756227542342329, 51.05514866045062 ]
+      },
+      "naam": "GO! technisch atheneum - GITO Groenkouter Sint-Amandsberg",
+      "onderwijsnet": "GO",
+      "gentid": "OND337",
+      "geo_point_2d": [ 51.0551486605, 3.75622754234 ],
+      "roepnaam": "GO! technisch atheneum - GITO Groenkouter Sint-Amandsberg",
+      "postcode": "9040",
+      "huisnr": "129",
+      "schoolnr": "127894",
+      "email": "inlichtingen@atheneum-groenkouter.be",
+      "telefoon": "09-228.42.22"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.75622754234, 51.0551486605 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "dd1caa1fc89d05d2b83a1981d47360f96606ddec",
+    "fields": {
+      "website": "http://www.phtigent.be",
+      "aanbod": "SO",
+      "schoolnummer": "36624",
+      "straat": "Henleykaai",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "f50624f8-309e-44a3-9c17-a352cc1d28bf",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.715814323226317, 51.04226592491664 ]
+      },
+      "naam": "Provinciaal Handels- en Taalinstituut - Volledig Leerplan",
+      "onderwijsnet": "PO",
+      "gentid": "OND169",
+      "geo_point_2d": [ 51.0422659249, 3.71581432323 ],
+      "roepnaam": "Provinciaal Handels- en Taalinstituut - Volledig Leerplan",
+      "postcode": "9000",
+      "huisnr": "83",
+      "schoolnr": "36624",
+      "email": "info@phtigent.be",
+      "telefoon": "09-267.12.10"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71581432323, 51.0422659249 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "d9f5adcef2a4ec550936348473b12af3f6cf2f0b",
+    "fields": {
+      "website": "www.sintrafael.be",
+      "aanbod": "BuSO",
+      "schoolnummer": "27995",
+      "straat": "Maagdestraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "a6b914fd-e028-47be-87b1-4cf4a141cd78",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.715112631229799, 51.050658049736704 ]
+      },
+      "naam": "Buitengewoon Secundair Onderwijs Sint-Rafael",
+      "onderwijsnet": "KO",
+      "gentid": "OND162",
+      "geo_point_2d": [ 51.0506580497, 3.71511263123 ],
+      "roepnaam": "Buitengewoon Secundair Onderwijs Sint-Rafael",
+      "postcode": "9000",
+      "huisnr": "56",
+      "schoolnr": "27995",
+      "email": "i.dehondt@sintrafael.be",
+      "telefoon": "09-292.40.89"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71511263123, 51.0506580497 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "34313d07a322137174487cad1a55a49883190dc0",
+    "fields": {
+      "website": "http://www.kavoskenslaan.be",
+      "aanbod": "SO",
+      "schoolnummer": "43273",
+      "straat": "Voskenslaan",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "1d2491f9-6472-4d23-adf0-0c5f551f0162",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.707044461955616, 51.033209710421346 ]
+      },
+      "naam": "GO! atheneum Voskenslaan Gent",
+      "onderwijsnet": "GO",
+      "gentid": "OND087",
+      "geo_point_2d": [ 51.0332097104, 3.70704446196 ],
+      "roepnaam": "GO! atheneum Voskenslaan Gent",
+      "postcode": "9000",
+      "huisnr": "60",
+      "schoolnr": "43273",
+      "email": "kavoskenslaan@kavoskenslaan.be",
+      "telefoon": "09-240.00.60"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.70704446196, 51.0332097104 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "96f9608e0cc01f4f23a7392bfbee6edc82f5589b",
+    "fields": {
+      "aanbod": "BuSO",
+      "schoolnummer": "27326",
+      "straat": "Wolfputstraat",
+      "gemeente": "OOSTAKKER",
+      "vestigingsnr": "1",
+      "globalid": "ba22dd55-0f66-4017-9e3f-af8ff870dacf",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.762843676323355, 51.09279353490868 ]
+      },
+      "naam": "GO! school voor buitengewoon secundair onderwijs Reynaertschool",
+      "onderwijsnet": "GO",
+      "gentid": "OND365",
+      "geo_point_2d": [ 51.0927935349, 3.76284367632 ],
+      "roepnaam": "GO! school voor buitengewoon secundair onderwijs Reynaertschool",
+      "postcode": "9041",
+      "huisnr": "42",
+      "schoolnr": "27326",
+      "email": "marijke.eeckhout@scholengroep.gent",
+      "telefoon": "09-2512305"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.76284367632, 51.0927935349 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "0002e8f9d400614287cc99b8a2406c94d9f933b0",
+    "fields": {
+      "aanbod": "BuSO",
+      "schoolnummer": "28241",
+      "straat": "Ebergiste De Deynestraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "3",
+      "globalid": "d2681c12-7adb-4ed2-bbd0-4519d82be627",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.716385104252395, 51.01560664693144 ]
+      },
+      "naam": "Buitengewoon Secundair Onderwijs Sint-Gregorius",
+      "onderwijsnet": "KO",
+      "gentid": "OND174",
+      "geo_point_2d": [ 51.0156066469, 3.71638510425 ],
+      "roepnaam": "Buitengewoon Secundair Onderwijs Sint-Gregorius",
+      "postcode": "9000",
+      "huisnr": "1",
+      "schoolnr": "28241",
+      "email": "buso@sint-jozef.org",
+      "telefoon": "09-2401373"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71638510425, 51.0156066469 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "13a941c9aa7e7288052a8e1ff0669bdc5d042e42",
+    "fields": {
+      "website": "http://www.kunstinstituut.be",
+      "aanbod": "SO",
+      "schoolnummer": "50633",
+      "straat": "Ottogracht",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "6b644366-578e-4c56-934c-301d4be27a9a",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.728178890886384, 51.05777733714506 ]
+      },
+      "naam": "Secundair Kunstinstituut",
+      "onderwijsnet": "OSG",
+      "gentid": "OND237",
+      "geo_point_2d": [ 51.0577773371, 3.72817889089 ],
+      "roepnaam": "Secundair Kunstinstituut",
+      "postcode": "9000",
+      "huisnr": "4",
+      "schoolnr": "50633",
+      "email": "ski.dir@stad.gent",
+      "telefoon": "09-269.43.51"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.72817889089, 51.0577773371 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "fea1e21c28fcbf19fe6917cf1e9abbcbc3807c62",
+    "fields": {
+      "website": "http://www.hotelschoolgent.be",
+      "aanbod": "SO",
+      "schoolnummer": "36764",
+      "straat": "Lange Violettestraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "fa28478a-d396-43b7-8cc1-5a66e16d0547",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.733884313236687, 51.04831551963535 ]
+      },
+      "naam": "Hotelschool Gent",
+      "onderwijsnet": "OSG",
+      "gentid": "OND275",
+      "geo_point_2d": [ 51.0483155196, 3.73388431324 ],
+      "roepnaam": "Hotelschool Gent",
+      "postcode": "9000",
+      "huisnr": "12",
+      "schoolnr": "36764",
+      "email": "hotelschool.directeur@onderwijs.gent.be",
+      "telefoon": "09-269.86.00"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.73388431324, 51.0483155196 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "83851820bbc23f7c8dc223c81bfee1b66328acf5",
+    "fields": {
+      "website": "www.reynaertschool.be",
+      "aanbod": "BuSO",
+      "schoolnummer": "27326",
+      "straat": "Christiaan Van der Heydenlaan",
+      "gemeente": "OOSTAKKER",
+      "vestigingsnr": "2",
+      "globalid": "61553b4d-d6a7-41b1-a5ec-9a371efd16fa",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.762676384836585, 51.094689378575595 ]
+      },
+      "naam": "GO! school voor buitengewoon secundair onderwijs Reynaertschool",
+      "onderwijsnet": "GO",
+      "gentid": "OND364",
+      "geo_point_2d": [ 51.0946893786, 3.76267638484 ],
+      "roepnaam": "GO! school voor buitengewoon secundair onderwijs Reynaertschool",
+      "postcode": "9041",
+      "huisnr": "24_A",
+      "schoolnr": "27326",
+      "email": "marijke.eeckhout@scholengroep.gent",
+      "telefoon": "09-220.08.66"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.76267638484, 51.0946893786 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "0991d05ceab7e63de649a25b83cd8a00f79ab3ee",
+    "fields": {
+      "website": "http://www.sintpietersgent.be",
+      "aanbod": "SO",
+      "schoolnummer": "36954",
+      "straat": "Koning Albertlaan",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "2abe3570-cbf0-4a12-9853-126e725dac5a",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.71084797337399, 51.03849875548602 ]
+      },
+      "naam": "Sint-Pietersinstituut bovenbouw",
+      "onderwijsnet": "KO",
+      "gentid": "OND120",
+      "geo_point_2d": [ 51.0384987555, 3.71084797337 ],
+      "roepnaam": "Sint-Pietersinstituut bovenbouw",
+      "postcode": "9000",
+      "huisnr": "70",
+      "schoolnr": "36954",
+      "email": "renata.janssens@sintpietersgent.be",
+      "telefoon": "09-222.14.52"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71084797337, 51.0384987555 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "1a55b478c70aa6d2435901c34d4c05e217cffda3",
+    "fields": {
+      "website": "http://www.ktamobi.be",
+      "aanbod": "SO",
+      "schoolnummer": "43307",
+      "straat": "Coupure",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "fbdafd03-d686-4813-85e5-6fe9196feb13",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.710706082785591, 51.051649332916206 ]
+      },
+      "naam": "KTA MoBi",
+      "onderwijsnet": "GO",
+      "gentid": "OND121",
+      "geo_point_2d": [ 51.0516493329, 3.71070608279 ],
+      "roepnaam": "KTA MoBi",
+      "postcode": "9000",
+      "huisnr": "312",
+      "schoolnr": "43307",
+      "email": "info@ktamobi.be",
+      "telefoon": "09-225.33.04"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71070608279, 51.0516493329 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "ed0400183979e0efd5ee27ec465215b191866515",
+    "fields": {
+      "aanbod": "BuSO",
+      "schoolnummer": "130799",
+      "straat": "Sint-Juliaanstraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "4",
+      "globalid": "b908ddea-f4e8-495e-b7ba-689ebcf8a763",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.73205703056296, 51.03376097103302 ]
+      },
+      "naam": "Gemeentelijke Ziekenhuisschool",
+      "onderwijsnet": "OSG",
+      "gentid": "OND261",
+      "geo_point_2d": [ 51.033760971, 3.73205703056 ],
+      "roepnaam": "Gemeentelijke Ziekenhuisschool",
+      "postcode": "9000",
+      "huisnr": "1",
+      "schoolnr": "130799",
+      "telefoon": "09-2435555"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.73205703056, 51.033760971 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "f1f98c95a5470d5568bc3b1b86aad9cb61af2c46",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "43356",
+      "straat": "Barrestraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "2",
+      "globalid": "cd444fd4-7dcd-41d7-a6e7-dee3da0c772f",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.72946069824438, 51.05373912322061 ]
+      },
+      "naam": "GO! Middenschool Lyceum Gent",
+      "onderwijsnet": "GO",
+      "gentid": "OND246",
+      "geo_point_2d": [ 51.0537391232, 3.72946069824 ],
+      "roepnaam": "GO! Middenschool Lyceum Gent",
+      "postcode": "9000",
+      "huisnr": "6",
+      "schoolnr": "43356",
+      "telefoon": "09-223.86.24"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.72946069824, 51.0537391232 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "0b24b42fb2cb8c0a484a8fa7ba04509f9aa105e7",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "127548",
+      "straat": "Zandloperstraat",
+      "gemeente": "MARIAKERKE",
+      "vestigingsnr": "5",
+      "globalid": "f5a6baf4-521c-46b0-b256-1e1cb21ba592",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.678005517775893, 51.07179611803215 ]
+      },
+      "naam": "Sint-Paulusinstituut 2",
+      "onderwijsnet": "KO",
+      "gentid": "OND032",
+      "geo_point_2d": [ 51.071796118, 3.67800551778 ],
+      "roepnaam": "Sint-Paulusinstituut 2",
+      "postcode": "9030",
+      "huisnr": "8",
+      "schoolnr": "127548",
+      "telefoon": "09 226 76 83"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.67800551778, 51.071796118 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "6a30a322aeb15de583ac6ce934d0c74f181fdbe1",
+    "fields": {
+      "website": "http://www.donboscosdw.be",
+      "aanbod": "SO",
+      "schoolnummer": "38083",
+      "straat": "Kortrijksesteenweg",
+      "gemeente": "SINT-DENIJS-WESTREM",
+      "vestigingsnr": "1",
+      "globalid": "e1ed93f7-73a5-4dec-8914-0b3201ae432d",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.699697067643577, 51.02259672585652 ]
+      },
+      "naam": "Don Bosco Technisch Instituut",
+      "onderwijsnet": "KO",
+      "gentid": "OND055",
+      "geo_point_2d": [ 51.0225967259, 3.69969706764 ],
+      "roepnaam": "Don Bosco Technisch Instituut",
+      "postcode": "9051",
+      "huisnr": "1025",
+      "schoolnr": "38083",
+      "email": "desseinhannelore@donboscosdw.be",
+      "telefoon": "09-221.31.11"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.69969706764, 51.0225967259 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "ecad0f28c5399dd1985c50d9f876ae10eb0af6bb",
+    "fields": {
+      "website": "http://www.edugo.be",
+      "aanbod": "SO",
+      "schoolnummer": "127712",
+      "straat": "Eksaardserijweg",
+      "gemeente": "OOSTAKKER",
+      "vestigingsnr": "1",
+      "globalid": "4576a686-8dc9-481a-83f1-d7931cce39b2",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.769500659106701, 51.08459348268895 ]
+      },
+      "naam": "EDUGO campus De Brug 1",
+      "onderwijsnet": "KO",
+      "gentid": "OND386",
+      "geo_point_2d": [ 51.0845934827, 3.76950065911 ],
+      "roepnaam": "EDUGO campus De Brug 1",
+      "postcode": "9041",
+      "huisnr": "24",
+      "schoolnr": "127712",
+      "email": "info.brug@edugo.be",
+      "telefoon": "09-255.91.13"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.76950065911, 51.0845934827 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "74059ec336513a18d8c49b7c69e064e6d75522d9",
+    "fields": {
+      "website": "http://ziekenhuisschool.stad.gent/",
+      "aanbod": "BuSO",
+      "schoolnummer": "130799",
+      "straat": "Corneel Heymanslaan",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "ae642391-202b-45fa-8171-36360fe5f2ac",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.727111621312399, 51.02531114008444 ]
+      },
+      "naam": "Gemeentelijke Ziekenhuisschool",
+      "onderwijsnet": "OSG",
+      "gentid": "OND230",
+      "geo_point_2d": [ 51.0253111401, 3.72711162131 ],
+      "roepnaam": "Gemeentelijke Ziekenhuisschool",
+      "postcode": "9000",
+      "huisnr": "10",
+      "schoolnr": "130799",
+      "email": "ziekenhuisschool@stad.gent",
+      "telefoon": "09-222.11.33"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.72711162131, 51.0253111401 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "06ca5da744aa57bcae6f28c59b9854c9cae997aa",
+    "fields": {
+      "website": "http://www.ivgschool.be",
+      "aanbod": "SO",
+      "schoolnummer": "37085",
+      "straat": "Nederkouter",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "79a519af-d8a0-4a58-be91-191ba0aac6c7",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.721721327449879, 51.04716170362418 ]
+      },
+      "naam": "IVG-School",
+      "onderwijsnet": "OKO",
+      "gentid": "OND207",
+      "geo_point_2d": [ 51.0471617036, 3.72172132745 ],
+      "roepnaam": "IVG-School",
+      "postcode": "9000",
+      "huisnr": "112",
+      "schoolnr": "37085",
+      "email": "info@ivgschool.be",
+      "telefoon": "09-265.70.60"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.72172132745, 51.0471617036 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "46ac9f08abbde5bece671bbf74f61ca0a9b193c5",
+    "fields": {
+      "website": "http://www.atheneumgentbrugge.be",
+      "aanbod": "SO",
+      "schoolnummer": "115394",
+      "straat": "Ooievaarsnest",
+      "gemeente": "GENTBRUGGE",
+      "vestigingsnr": "1",
+      "globalid": "da917fa3-cded-4fd7-b2a3-de76f11d6667",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.769810032704601, 51.03586455199619 ]
+      },
+      "naam": "GO! atheneum Gentbrugge",
+      "onderwijsnet": "GO",
+      "gentid": "OND383",
+      "geo_point_2d": [ 51.035864552, 3.7698100327 ],
+      "roepnaam": "GO! atheneum Gentbrugge",
+      "postcode": "9050",
+      "huisnr": "3",
+      "schoolnr": "115394",
+      "email": "dir.atheneumgentbrugge@scholengroep.net",
+      "telefoon": "09-210.51.51"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.7698100327, 51.035864552 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "d6bfd56bb38d7a58651060627190f97271f6912e",
+    "fields": {
+      "website": "www.busosintgregorius.be",
+      "aanbod": "BuSO",
+      "schoolnummer": "28241",
+      "straat": "Jules Destr\u00e9elaan",
+      "gemeente": "GENTBRUGGE",
+      "vestigingsnr": "1",
+      "globalid": "b19ff14e-c42f-4b30-8d99-ad882ea38116",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.777559376925452, 51.029602176082186 ]
+      },
+      "naam": "Buitengewoon Secundair Onderwijs Sint-Gregorius",
+      "onderwijsnet": "KO",
+      "gentid": "OND391",
+      "geo_point_2d": [ 51.0296021761, 3.77755937693 ],
+      "roepnaam": "Buitengewoon Secundair Onderwijs Sint-Gregorius",
+      "postcode": "9050",
+      "huisnr": "67",
+      "schoolnr": "28241",
+      "email": "buso.st.gregorius@fracarita.org",
+      "telefoon": "09-210.01.50"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.77755937693, 51.0296021761 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "1c3cb4f3b8439e5ac2827bb57f315b68cbd3d908",
+    "fields": {
+      "website": "http://sjc-gent.be",
+      "aanbod": "SO",
+      "schoolnummer": "115352",
+      "straat": "Visitatiestraat",
+      "gemeente": "SINT-AMANDSBERG",
+      "vestigingsnr": "1",
+      "globalid": "d3bb66c3-a18d-49f5-86bd-820f6aa87b78",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.748399295475725, 51.062523864232546 ]
+      },
+      "naam": "Sint-Janscollege",
+      "onderwijsnet": "KO",
+      "gentid": "OND316",
+      "geo_point_2d": [ 51.0625238642, 3.74839929548 ],
+      "roepnaam": "Sint-Janscollege",
+      "postcode": "9040",
+      "huisnr": "5",
+      "schoolnr": "115352",
+      "email": "visitatie@sjc-gent.be",
+      "telefoon": "09-228.34.62"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.74839929548, 51.0625238642 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "f4b24894ce308dba448bab8f684418858b0dc7ab",
+    "fields": {
+      "website": "http://www.sintpaulusgent.be",
+      "aanbod": "SO",
+      "schoolnummer": "127531",
+      "straat": "Patijntjestraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "ef04afb3-8dfa-465d-af0a-77cbb6bf1b11",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.707972882620223, 51.040163681654725 ]
+      },
+      "naam": "Sint-Paulusinstituut 1",
+      "onderwijsnet": "KO",
+      "gentid": "OND090",
+      "geo_point_2d": [ 51.0401636817, 3.70797288262 ],
+      "roepnaam": "Sint-Paulusinstituut 1",
+      "postcode": "9000",
+      "huisnr": "45",
+      "schoolnr": "127531",
+      "email": "info@sintpaulusgent.be",
+      "telefoon": "09-222.38.22"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.70797288262, 51.0401636817 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "581a4fb17d827995ef98ff25f49de47d7abb4d4a",
+    "fields": {
+      "website": "http://www.slcb.be",
+      "aanbod": "SO",
+      "schoolnummer": "36913",
+      "straat": "Steendam",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "6e31464f-1d2d-4339-aa9d-a8e3438197d1",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.729811354514287, 51.05730976128849 ]
+      },
+      "naam": "Sint-Lievenscollege Business",
+      "onderwijsnet": "KO",
+      "gentid": "OND253",
+      "geo_point_2d": [ 51.0573097613, 3.72981135451 ],
+      "roepnaam": "Sint-Lievenscollege Business",
+      "postcode": "9000",
+      "huisnr": "27",
+      "schoolnr": "36913",
+      "email": "info@slcb.be",
+      "telefoon": "09-225.89.07"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.72981135451, 51.0573097613 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "1184eecadee67c6997686b72f0dbefe60a371c3c",
+    "fields": {
+      "aanbod": "BuSO",
+      "schoolnummer": "28191",
+      "straat": "Eendrachtstraat",
+      "vestigingsnr": "3",
+      "globalid": "6429b6a8-ace3-4fc3-a350-afd2bcd2a4a2",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.743984226137008, 51.048081805836496 ]
+      },
+      "naam": "Stedelijk Buitengewoon Secundair Onderwijs Instituut Bert Carlier",
+      "onderwijsnet": "OSG",
+      "gentid": "OND311",
+      "geo_point_2d": [ 51.0480818058, 3.74398422614 ],
+      "roepnaam": "Stedelijk Buitengewoon Secundair Onderwijs Instituut Bert Carlier",
+      "postcode": "9000",
+      "huisnr": "85",
+      "schoolnr": "28191",
+      "gemeente": "GENT"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.74398422614, 51.0480818058 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "2dec48ccbee3b00cbde347748d7879b5d8495586",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "116749",
+      "straat": "Offerlaan",
+      "gemeente": "GENT",
+      "vestigingsnr": "2",
+      "globalid": "26ef7084-1057-4da7-b802-7383c26afb9b",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.709648445813629, 51.04471267010612 ]
+      },
+      "naam": "Het Spectrum Gent",
+      "onderwijsnet": "OSG",
+      "gentid": "OND107",
+      "geo_point_2d": [ 51.0447126701, 3.70964844581 ],
+      "roepnaam": "Het Spectrum Gent",
+      "postcode": "9000",
+      "huisnr": "3",
+      "schoolnr": "116749",
+      "telefoon": "09-233.45.09"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.70964844581, 51.0447126701 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "5af5698113d3bd2a3827d595d4c7035a192c448f",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "42622",
+      "straat": "Keramiekstraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "2",
+      "globalid": "893dbbf4-f7db-4c23-b4f6-cca760943ea5",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.727544545360301, 51.01971312106952 ]
+      },
+      "naam": "GO! technisch atheneum Vesaliusinstituut Oostende",
+      "onderwijsnet": "GO",
+      "gentid": "OND231",
+      "geo_point_2d": [ 51.0197131211, 3.72754454536 ],
+      "roepnaam": "GO! technisch atheneum Vesaliusinstituut Oostende",
+      "postcode": "9000",
+      "huisnr": "80",
+      "schoolnr": "42622",
+      "telefoon": "09-243.23.81"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.72754454536, 51.0197131211 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "b0aa0a1b62b937e5662d971da4a740c7a4219992",
+    "fields": {
+      "website": "http://www.ivgschool.be",
+      "aanbod": "SO",
+      "schoolnummer": "46871",
+      "straat": "Nederkouter",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "85bdbb82-18e5-4825-9f0b-be78d3e7147c",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.721721327449879, 51.04716170362418 ]
+      },
+      "naam": "IVG-School",
+      "onderwijsnet": "OKO",
+      "gentid": "OND208",
+      "geo_point_2d": [ 51.0471617036, 3.72172132745 ],
+      "roepnaam": "IVG-School",
+      "postcode": "9000",
+      "huisnr": "112",
+      "schoolnr": "46871",
+      "email": "info@ivgschool.be",
+      "telefoon": "09-265.70.60"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.72172132745, 51.0471617036 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "7cba992f656d74f1db64f820d380a6d92d9bef7f",
+    "fields": {
+      "website": "http://www.pm-gent.be",
+      "aanbod": "SO",
+      "schoolnummer": "46862",
+      "straat": "Abdisstraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "6c85fb71-a006-4991-baf2-424629e8a651",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.714241537413157, 51.042571830627836 ]
+      },
+      "naam": "Provinciale Middenschool",
+      "onderwijsnet": "PO",
+      "gentid": "OND156",
+      "geo_point_2d": [ 51.0425718306, 3.71424153741 ],
+      "roepnaam": "Provinciale Middenschool",
+      "postcode": "9000",
+      "huisnr": "56",
+      "schoolnr": "46862",
+      "email": "info@pm-gent.be",
+      "telefoon": "09-267.12.40"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71424153741, 51.0425718306 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "a5b233d7dfcd9e0f2df097cc5ae5db05eeb79934",
+    "fields": {
+      "website": "http://www.lyceumgent.be",
+      "aanbod": "SO",
+      "schoolnummer": "43299",
+      "straat": "Kortrijksesteenweg",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "bae7455a-1c86-4b04-9b18-a0c6d82a0fd3",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.718347241457656, 51.04161471534645 ]
+      },
+      "naam": "GO! lyceum Gent",
+      "onderwijsnet": "GO",
+      "gentid": "OND187",
+      "geo_point_2d": [ 51.0416147153, 3.71834724146 ],
+      "roepnaam": "GO! lyceum Gent",
+      "postcode": "9000",
+      "huisnr": "12",
+      "schoolnr": "43299",
+      "email": "info@lyceumgent.be",
+      "telefoon": "09-220.10.70"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71834724146, 51.0416147153 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "c98a98fb4bd08f4d6baf9940237fb406a500baa2",
+    "fields": {
+      "aanbod": "BuSO",
+      "schoolnummer": "28191",
+      "straat": "Offerlaan",
+      "gemeente": "GENT",
+      "vestigingsnr": "4",
+      "globalid": "7b3000ff-539c-4912-8432-69556e1f111b",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.709648445813629, 51.04471267010612 ]
+      },
+      "naam": "Stedelijk Buitengewoon Secundair Onderwijs Instituut Bert Carlier",
+      "onderwijsnet": "OSG",
+      "gentid": "OND106",
+      "geo_point_2d": [ 51.0447126701, 3.70964844581 ],
+      "roepnaam": "Stedelijk Buitengewoon Secundair Onderwijs Instituut Bert Carlier",
+      "postcode": "9000",
+      "huisnr": "3",
+      "schoolnr": "28191",
+      "telefoon": "09-269.63.13"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.70964844581, 51.0447126701 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "dba87b4425b89efc4680872613c9c7dd2f659353",
+    "fields": {
+      "website": "http://www.dbz.be",
+      "aanbod": "SO",
+      "schoolnummer": "112144",
+      "straat": "Grotesteenweg-Noord",
+      "gemeente": "ZWIJNAARDE",
+      "vestigingsnr": "1",
+      "globalid": "f8992d16-654c-4245-bc42-b7ae5ee99a87",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.703500394542241, 51.01371874618964 ]
+      },
+      "naam": "Don Boscocollege Eerste graad",
+      "onderwijsnet": "KO",
+      "gentid": "OND066",
+      "geo_point_2d": [ 51.0137187462, 3.70350039454 ],
+      "roepnaam": "Don Boscocollege Eerste graad",
+      "postcode": "9052",
+      "huisnr": "113",
+      "schoolnr": "112144",
+      "email": "info@dbz.be",
+      "telefoon": "09-221.46.48"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.70350039454, 51.0137187462 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "120037b6f55f0c0b70ab022cf51409530aa93399",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "105494",
+      "straat": "Zandloperstraat",
+      "gemeente": "MARIAKERKE",
+      "vestigingsnr": "3",
+      "globalid": "35375387-1a09-4f5a-81c3-fffb37f7a603",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.678005517775893, 51.07179611803215 ]
+      },
+      "naam": "Technisch Instituut Sint-Laurens",
+      "onderwijsnet": "KO",
+      "gentid": "OND031",
+      "geo_point_2d": [ 51.071796118, 3.67800551778 ],
+      "roepnaam": "Technisch Instituut Sint-Laurens",
+      "postcode": "9030",
+      "huisnr": "8",
+      "schoolnr": "105494",
+      "telefoon": "09-226.76.83"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.67800551778, 51.071796118 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "218516903f722ab3474fef41b563418b1e0b8124",
+    "fields": {
+      "website": "http://www.sbhg.be",
+      "aanbod": "SO",
+      "schoolnummer": "36996",
+      "straat": "Reep",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "e4b5dac9-d00a-49ab-b143-ccc72def0b90",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.72977649809252, 51.05254526158114 ]
+      },
+      "naam": "Sint-Bavohumaniora",
+      "onderwijsnet": "KO",
+      "gentid": "OND252",
+      "geo_point_2d": [ 51.0525452616, 3.72977649809 ],
+      "roepnaam": "Sint-Bavohumaniora",
+      "postcode": "9000",
+      "huisnr": "4",
+      "schoolnr": "36996",
+      "email": "sint.bavohumaniora@sbhg.be",
+      "telefoon": "09-267.96.11"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.72977649809, 51.0525452616 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "710f7f68c088c8288646b0741b374fb4c43b0d15",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "112102",
+      "straat": "Neermeerskaai",
+      "gemeente": "GENT",
+      "vestigingsnr": "2",
+      "globalid": "09474aba-309d-4058-855a-a57819ecd421",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.706433064055456, 51.044191250163756 ]
+      },
+      "naam": "Atheneum Wispelberg",
+      "onderwijsnet": "OSG",
+      "gentid": "OND084",
+      "geo_point_2d": [ 51.0441912502, 3.70643306406 ],
+      "roepnaam": "Atheneum Wispelberg",
+      "postcode": "9000",
+      "huisnr": "1_",
+      "schoolnr": "112102",
+      "telefoon": "09-234.12.53"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.70643306406, 51.0441912502 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "5bb1d37b88b1ea744a9355ea07b68c7b1c3ff936",
+    "fields": {
+      "website": "http://www.visitatie.be",
+      "aanbod": "SO",
+      "schoolnummer": "37581",
+      "straat": "Zandloperstraat",
+      "gemeente": "MARIAKERKE",
+      "vestigingsnr": "1",
+      "globalid": "02794d0b-5fd8-4293-bf08-86bdea84c06a",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.678005517775893, 51.07179611803215 ]
+      },
+      "naam": "Visitatie",
+      "onderwijsnet": "KO",
+      "gentid": "OND033",
+      "geo_point_2d": [ 51.071796118, 3.67800551778 ],
+      "roepnaam": "Visitatie",
+      "postcode": "9030",
+      "huisnr": "8",
+      "schoolnr": "37581",
+      "email": "christine.desmaele@visitatie.be",
+      "telefoon": "09-226.76.83"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.67800551778, 51.071796118 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "5dfae8f09661113c297ba4fafbbdddba047b9a91",
+    "fields": {
+      "website": "http://www.msvoskenslaan.be",
+      "aanbod": "SO",
+      "schoolnummer": "44669",
+      "straat": "Voskenslaan",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "d64278b6-e3d4-468d-b69b-76260c10fac6",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.707044461955616, 51.033209710421346 ]
+      },
+      "naam": "GO! middenschool Voskenslaan Gent",
+      "onderwijsnet": "GO",
+      "gentid": "OND088",
+      "geo_point_2d": [ 51.0332097104, 3.70704446196 ],
+      "roepnaam": "GO! middenschool Voskenslaan Gent",
+      "postcode": "9000",
+      "huisnr": "60",
+      "schoolnr": "44669",
+      "email": "info@msvoskenslaan.be",
+      "telefoon": "09-240.00.57"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.70704446196, 51.0332097104 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "36fbe2c639321c6a77d71c7461ebbf707ac15d8e",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "43216",
+      "straat": "Gentstraat",
+      "gemeente": "OOSTAKKER",
+      "vestigingsnr": "2",
+      "globalid": "a2b92d58-b343-4bae-ab36-7c09679201de",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.760864999552716, 51.09566886661723 ]
+      },
+      "naam": "Einstein Atheneum, ASO Talen, Wetenschappen & Kunst",
+      "onderwijsnet": "GO",
+      "gentid": "OND354",
+      "geo_point_2d": [ 51.0956688666, 3.76086499955 ],
+      "roepnaam": "Einstein Atheneum, ASO Talen, Wetenschappen & Kunst",
+      "postcode": "9041",
+      "huisnr": "194",
+      "schoolnr": "43216",
+      "telefoon": "09-225.74.45"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.76086499955, 51.0956688666 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "a0064d9b1228e3828651c5e37d2d0101972eee9b",
+    "fields": {
+      "website": "http://www.atheneummariakerke.be/",
+      "aanbod": "SO",
+      "schoolnummer": "43554",
+      "straat": "Amand Casier de ter Bekenlaan",
+      "gemeente": "MARIAKERKE",
+      "vestigingsnr": "1",
+      "globalid": "52a92416-1059-4347-b3ed-f34cd344cbdd",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.67164708572968, 51.07432065929571 ]
+      },
+      "naam": "GO! atheneum Mariakerke",
+      "onderwijsnet": "GO",
+      "gentid": "OND025",
+      "geo_point_2d": [ 51.0743206593, 3.67164708573 ],
+      "roepnaam": "GO! atheneum Mariakerke",
+      "postcode": "9030",
+      "huisnr": "26",
+      "schoolnr": "43554",
+      "email": "info@atheneummariakerke.be",
+      "telefoon": "09-216.84.44"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.67164708573, 51.0743206593 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "3e2129a16ae075ec099aabee0b8028143683a0c5",
+    "fields": {
+      "website": "http://www.pihs.be",
+      "aanbod": "SO",
+      "schoolnummer": "36699",
+      "straat": "Godshuizenlaan",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "5d45d0b9-8097-46f2-8134-b555fe0bb89c",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.715697980484905, 51.04345187046133 ]
+      },
+      "naam": "Provinciaal Instituut voor Haartooi en Schoonheidszorgen",
+      "onderwijsnet": "PO",
+      "gentid": "OND167",
+      "geo_point_2d": [ 51.0434518705, 3.71569798048 ],
+      "roepnaam": "Provinciaal Instituut voor Haartooi en Schoonheidszorgen",
+      "postcode": "9000",
+      "huisnr": "65-75",
+      "schoolnr": "36699",
+      "email": "pihs@telenet.be",
+      "telefoon": "09-267.12.60"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71569798048, 51.0434518705 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "ec126b76127c994364a920b06dfb9dc06bcd1903",
+    "fields": {
+      "website": "http://www.edugo.be",
+      "aanbod": "SO",
+      "schoolnummer": "110346",
+      "straat": "Sint-Jozefstraat",
+      "gemeente": "OOSTAKKER",
+      "vestigingsnr": "1",
+      "globalid": "625d2f19-28f0-4efd-82e4-515559a56cd2",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.766791693649191, 51.08438193599882 ]
+      },
+      "naam": "EDUGO campus Glorieux Technisch Instituut",
+      "onderwijsnet": "KO",
+      "gentid": "OND372",
+      "geo_point_2d": [ 51.084381936, 3.76679169365 ],
+      "roepnaam": "EDUGO campus Glorieux Technisch Instituut",
+      "postcode": "9041",
+      "huisnr": "7",
+      "schoolnr": "110346",
+      "email": "info.glorieux@edugo.be",
+      "telefoon": "09-255.91.15"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.76679169365, 51.084381936 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "51a72811536432e985b86f67df57a619e1e279d7",
+    "fields": {
+      "aanbod": "BuSO",
+      "schoolnummer": "28183",
+      "straat": "Baarledorpstraat",
+      "vestigingsnr": "2",
+      "globalid": "252cb0a0-4046-49bd-9811-814b4fdf78d7",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.620365579745126, 51.03761744898519 ]
+      },
+      "naam": "Instituut voor Buitengewoon Secundair Onderwijs Binnenhof",
+      "onderwijsnet": "KO",
+      "gentid": "OND005",
+      "geo_point_2d": [ 51.037617449, 3.62036557975 ],
+      "roepnaam": "Instituut voor Buitengewoon Secundair Onderwijs Binnenhof",
+      "postcode": "9031",
+      "huisnr": "4",
+      "schoolnr": "28183",
+      "gemeente": "DRONGEN"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.62036557975, 51.037617449 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "3bd9c5e0accb2c9236fbf7b89b227180a5e3ea73",
+    "fields": {
+      "website": "http://www.atheneumwispelberg.be",
+      "aanbod": "SO",
+      "schoolnummer": "112102",
+      "straat": "Wispelbergstraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "cf23d6ce-0891-4ec0-8ec6-312480da1046",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.712008010524743, 51.05237573418987 ]
+      },
+      "naam": "Atheneum Wispelberg",
+      "onderwijsnet": "OSG",
+      "gentid": "OND137",
+      "geo_point_2d": [ 51.0523757342, 3.71200801052 ],
+      "roepnaam": "Atheneum Wispelberg",
+      "postcode": "9000",
+      "huisnr": "2",
+      "schoolnr": "112102",
+      "email": "wispelberg@stad.gent",
+      "telefoon": "09-268.72.10"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71200801052, 51.0523757342 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "451f0d8290a4974b951578bbbeb54f3b93f69432",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "43307",
+      "straat": "Industriepark-Drongen",
+      "gemeente": "DRONGEN",
+      "vestigingsnr": "2",
+      "globalid": "23833c52-868f-4927-955a-888727157bf0",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.595542067429145, 51.043686925154844 ]
+      },
+      "naam": "KTA MoBi",
+      "onderwijsnet": "GO",
+      "gentid": "OND001",
+      "geo_point_2d": [ 51.0436869252, 3.59554206743 ],
+      "roepnaam": "KTA MoBi",
+      "postcode": "9031",
+      "huisnr": "14",
+      "schoolnr": "43307",
+      "telefoon": "09-282.09.06"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.59554206743, 51.0436869252 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "1adf87d0840ec792b0a66d019712a04ef26087af",
+    "fields": {
+      "aanbod": "BuSO",
+      "schoolnummer": "28183",
+      "straat": "Holstraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "3",
+      "globalid": "5fe56068-1feb-45a9-9c70-62e9f0b20109",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.714214977741031, 51.05263970430964 ]
+      },
+      "naam": "Instituut voor Buitengewoon Secundair Onderwijs Binnenhof",
+      "onderwijsnet": "KO",
+      "gentid": "OND157",
+      "geo_point_2d": [ 51.0526397043, 3.71421497774 ],
+      "roepnaam": "Instituut voor Buitengewoon Secundair Onderwijs Binnenhof",
+      "postcode": "9000",
+      "huisnr": "66",
+      "schoolnr": "28183",
+      "telefoon": "09-223.98.71"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71421497774, 51.0526397043 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "7ac448d0d91cfc235773b679c9876369ebc27e45",
+    "fields": {
+      "website": "http://www.scarlet.be/tweebruggen",
+      "aanbod": "SO",
+      "schoolnummer": "36764",
+      "straat": "Tweebruggenstraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "2",
+      "globalid": "10631f6f-4a7c-445f-a58b-111bea4f683e",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.736688801152687, 51.04868116690953 ]
+      },
+      "naam": "Hotelschool Gent",
+      "onderwijsnet": "OSG",
+      "gentid": "OND290",
+      "geo_point_2d": [ 51.0486811669, 3.73668880115 ],
+      "roepnaam": "Hotelschool Gent",
+      "postcode": "9000",
+      "huisnr": "59",
+      "schoolnr": "36764",
+      "email": "hotelschool.algemeen@gent.be",
+      "telefoon": "09-235.24.40"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.73668880115, 51.0486811669 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "4a30bba8aa81c213f82a62c1e30f0c2e65cd8359",
+    "fields": {
+      "website": "https://scholen.stad.gent/ibc",
+      "aanbod": "BuSO",
+      "schoolnummer": "28191",
+      "straat": "Oudenaardsesteenweg",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "86801449-9cd6-4f4a-bbc5-4c4e2830ef31",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.70839210427598, 51.02053326189039 ]
+      },
+      "naam": "Stedelijk Buitengewoon Secundair Onderwijs Instituut Bert Carlier",
+      "onderwijsnet": "OSG",
+      "gentid": "OND092",
+      "geo_point_2d": [ 51.0205332619, 3.70839210428 ],
+      "roepnaam": "Stedelijk Buitengewoon Secundair Onderwijs Instituut Bert Carlier",
+      "postcode": "9000",
+      "huisnr": "74",
+      "schoolnr": "28191",
+      "email": "ibc.dir@stad.gent",
+      "telefoon": "09-222.86.23"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.70839210428, 51.0205332619 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "2fdf86a072fe32c35dc20dfe10c0fd91ba85099a",
+    "fields": {
+      "website": "http://www.msv-vzw.be",
+      "aanbod": "SO",
+      "schoolnummer": "47316",
+      "straat": "Kasteellaan",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "d7576b7e-c560-4e71-89bc-b413feb498fe",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.739575031590885, 51.04933484003554 ]
+      },
+      "naam": "Middelbare Steinerschool Vlaanderen",
+      "onderwijsnet": "OKO",
+      "gentid": "OND300",
+      "geo_point_2d": [ 51.04933484, 3.73957503159 ],
+      "roepnaam": "Middelbare Steinerschool Vlaanderen",
+      "postcode": "9000",
+      "huisnr": "54",
+      "schoolnr": "47316",
+      "email": "info@msv-vzw.be",
+      "telefoon": "09-235.78.10"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.73957503159, 51.04933484 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "51f467f4cc8b016effc1e1391c1dfa6dbe318ebc",
+    "fields": {
+      "aanbod": "BuSO",
+      "schoolnummer": "28183",
+      "straat": "Molenaarsstraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "4",
+      "globalid": "a6102aaa-f41f-4a97-a34b-3185e7c0f563",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.718184013504919, 51.0615880130011 ]
+      },
+      "naam": "Instituut voor Buitengewoon Secundair Onderwijs Binnenhof",
+      "onderwijsnet": "KO",
+      "gentid": "OND188",
+      "geo_point_2d": [ 51.061588013, 3.7181840135 ],
+      "roepnaam": "Instituut voor Buitengewoon Secundair Onderwijs Binnenhof",
+      "postcode": "9000",
+      "huisnr": "30",
+      "schoolnr": "28183",
+      "telefoon": "09-223.98.71"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.7181840135, 51.061588013 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "706fe7d42d2cfb5552980b0e24135fb4c8a99d09",
+    "fields": {
+      "website": "www.lyceumgent.be",
+      "aanbod": "SO",
+      "schoolnummer": "43356",
+      "straat": "Kortrijksesteenweg",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "7c136ce7-7c6a-4617-86b3-f52b74a229ce",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.717994788206027, 51.04132511229115 ]
+      },
+      "naam": "GO! Middenschool Lyceum Gent",
+      "onderwijsnet": "GO",
+      "gentid": "OND185",
+      "geo_point_2d": [ 51.0413251123, 3.71799478821 ],
+      "roepnaam": "GO! Middenschool Lyceum Gent",
+      "postcode": "9000",
+      "huisnr": "32",
+      "schoolnr": "43356",
+      "email": "info@lyceumgent.be",
+      "telefoon": "09-222.16.02"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71799478821, 51.0413251123 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "9f2be077e81c06b41b579ed15dceca5e9b549953",
+    "fields": {
+      "website": "http://www.htisa.be",
+      "aanbod": "SO",
+      "schoolnummer": "36715",
+      "straat": "Holstraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "3a6c7d7b-9b63-4926-938e-3cb890d384a7",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.714214977741031, 51.05263970430964 ]
+      },
+      "naam": "Hoger Technisch Instituut Sint-Antonius",
+      "onderwijsnet": "KO",
+      "gentid": "OND158",
+      "geo_point_2d": [ 51.0526397043, 3.71421497774 ],
+      "roepnaam": "Hoger Technisch Instituut Sint-Antonius",
+      "postcode": "9000",
+      "huisnr": "66",
+      "schoolnr": "36715",
+      "email": "wouter.boute@htisa.be",
+      "telefoon": "09-235.04.20"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71421497774, 51.0526397043 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "fefddea9d197d81101294352a789b0db3faf2a5f",
+    "fields": {
+      "website": "http://www.sintlievenscollege.be",
+      "aanbod": "SO",
+      "schoolnummer": "127696",
+      "straat": "Zilverenberg",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "10a3eebf-9712-460b-9e0f-a21601448925",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.731794924263987, 51.05514508938042 ]
+      },
+      "naam": "Sint-Lievenscollege",
+      "onderwijsnet": "KO",
+      "gentid": "OND265",
+      "geo_point_2d": [ 51.0551450894, 3.73179492426 ],
+      "roepnaam": "Sint-Lievenscollege",
+      "postcode": "9000",
+      "huisnr": "1",
+      "schoolnr": "127696",
+      "email": "directie@sintlievenscollege.be",
+      "telefoon": "09-225.11.47"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.73179492426, 51.0551450894 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "0c3579b339be204e15998cb4a76f80219703f546",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "50658",
+      "straat": "Ingelandgat",
+      "gemeente": "GENT",
+      "vestigingsnr": "2",
+      "globalid": "f25680e9-2c5b-40b6-a940-894953ff07f5",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.717748525330886, 51.05289298486927 ]
+      },
+      "naam": "Kunsthumaniora Sint-Lucas",
+      "onderwijsnet": "KO",
+      "gentid": "OND183",
+      "geo_point_2d": [ 51.0528929849, 3.71774852533 ],
+      "roepnaam": "Kunsthumaniora Sint-Lucas",
+      "postcode": "9000",
+      "huisnr": "34",
+      "schoolnr": "50658",
+      "telefoon": "09-224.08.76"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71774852533, 51.0528929849 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "218fd5dc6977bfa517aa6dfc4cce16ed089ef3a5",
+    "fields": {
+      "website": "http://www.viso.be",
+      "aanbod": "SO",
+      "schoolnummer": "36939",
+      "straat": "Industrieweg",
+      "gemeente": "MARIAKERKE",
+      "vestigingsnr": "1",
+      "globalid": "57c6cc6d-bcd2-41f3-a7e3-c051e59e90ce",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.670822215708589, 51.0875389681941 ]
+      },
+      "naam": "Vrij Instituut voor Secundair Onderwijs - Gent",
+      "onderwijsnet": "KO",
+      "gentid": "OND022",
+      "geo_point_2d": [ 51.0875389682, 3.67082221571 ],
+      "roepnaam": "Vrij Instituut voor Secundair Onderwijs - Gent",
+      "postcode": "9030",
+      "huisnr": "230",
+      "schoolnr": "36939",
+      "email": "info@viso.be",
+      "telefoon": "09-216.36.36"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.67082221571, 51.0875389682 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "d8b56999ddbbbef9168f7840e8eb522dad3409a3",
+    "fields": {
+      "website": "http://humaniora.sintlievenscollege.be",
+      "aanbod": "SO",
+      "schoolnummer": "127688",
+      "straat": "Zilverenberg",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "c25294b1-e6b1-4572-a8d5-b3f79add0321",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.731794924263987, 51.05514508938042 ]
+      },
+      "naam": "Sint-Lievenscollege 1",
+      "onderwijsnet": "KO",
+      "gentid": "OND264",
+      "geo_point_2d": [ 51.0551450894, 3.73179492426 ],
+      "roepnaam": "Sint-Lievenscollege 1",
+      "postcode": "9000",
+      "huisnr": "1",
+      "schoolnr": "127688",
+      "email": "directie@sintlievenscollege.be",
+      "telefoon": "09-225.11.47"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.73179492426, 51.0551450894 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "b1109e8c39719cc208e3731ab41c4ec96618c9e2",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "127531",
+      "straat": "Ebergiste De Deynestraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "3",
+      "globalid": "23509e23-944a-4b2b-914f-e1c9529731e5",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.712799342503637, 51.0172497794146 ]
+      },
+      "naam": "Sint-Paulusinstituut 1",
+      "onderwijsnet": "KO",
+      "gentid": "OND139",
+      "geo_point_2d": [ 51.0172497794, 3.7127993425 ],
+      "roepnaam": "Sint-Paulusinstituut 1",
+      "postcode": "9000",
+      "huisnr": "2",
+      "schoolnr": "127531",
+      "telefoon": "09-222.11.66"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.7127993425, 51.0172497794 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "4177bb91804bddf7237595d35f26d0f43fe5867a",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "116749",
+      "straat": "Offerlaan",
+      "gemeente": "GENT",
+      "vestigingsnr": "4",
+      "globalid": "b530867d-ea88-4751-bf62-415ae0c5e786",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.710462325120436, 51.045652105740196 ]
+      },
+      "naam": "Het Spectrum Gent",
+      "onderwijsnet": "OSG",
+      "gentid": "OND118",
+      "geo_point_2d": [ 51.0456521057, 3.71046232512 ],
+      "roepnaam": "Het Spectrum Gent",
+      "postcode": "9000",
+      "huisnr": "1",
+      "schoolnr": "116749",
+      "telefoon": "09-269.33.00"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71046232512, 51.0456521057 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "c27098ea0568ba71893ce42c25346a8c6295462b",
+    "fields": {
+      "website": "www.waterkant.be",
+      "aanbod": "BuSO",
+      "schoolnummer": "28175",
+      "straat": "Stropkaai",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "da75f071-8b73-44f3-b751-a9b6b7ad8fe5",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.732048451383332, 51.035441928508625 ]
+      },
+      "naam": "Buitengewoon Secundair Onderwijs School aan de waterkant",
+      "onderwijsnet": "KO",
+      "gentid": "OND263",
+      "geo_point_2d": [ 51.0354419285, 3.73204845138 ],
+      "roepnaam": "Buitengewoon Secundair Onderwijs School aan de waterkant",
+      "postcode": "9000",
+      "huisnr": "38",
+      "schoolnr": "28175",
+      "email": "school@waterkant.be",
+      "telefoon": "09-222.15.84"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.73204845138, 51.0354419285 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "4d874656903b80f1a54667880992ee8a2544ad6f",
+    "fields": {
+      "website": "http://www.edugo.be",
+      "aanbod": "SO",
+      "schoolnummer": "127704",
+      "straat": "Sint-Jozefstraat",
+      "gemeente": "OOSTAKKER",
+      "vestigingsnr": "1",
+      "globalid": "25fe90a8-9367-44e8-acbf-c9de8116fb18",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.766798396361773, 51.08386060020092 ]
+      },
+      "naam": "EDUGO campus De Toren",
+      "onderwijsnet": "KO",
+      "gentid": "OND373",
+      "geo_point_2d": [ 51.0838606002, 3.76679839636 ],
+      "roepnaam": "EDUGO campus De Toren",
+      "postcode": "9041",
+      "huisnr": "10",
+      "schoolnr": "127704",
+      "email": "info.toren@edugo.be",
+      "telefoon": "09-255.91.14"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.76679839636, 51.0838606002 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "a265736d1901c4b89457cdbd9ab6514ee5e8f332",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "127548",
+      "straat": "Ebergiste De Deynestraat",
+      "gemeente": "GENT",
+      "vestigingsnr": "3",
+      "globalid": "8ae27730-77f3-4523-973e-7eaee8ee6847",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.712799342503637, 51.0172497794146 ]
+      },
+      "naam": "Sint-Paulusinstituut 2",
+      "onderwijsnet": "KO",
+      "gentid": "OND140",
+      "geo_point_2d": [ 51.0172497794, 3.7127993425 ],
+      "roepnaam": "Sint-Paulusinstituut 2",
+      "postcode": "9000",
+      "huisnr": "2",
+      "schoolnr": "127548",
+      "telefoon": "09-222.11.66"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.7127993425, 51.0172497794 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "b014f6375666f978ea201374bcfef72b7b2221de",
+    "fields": {
+      "website": "http://www.vipschool.be",
+      "aanbod": "SO",
+      "schoolnummer": "116749",
+      "straat": "Martelaarslaan",
+      "gemeente": "GENT",
+      "vestigingsnr": "1",
+      "globalid": "9547c1dc-2291-4631-903a-54f039c69f16",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.712038537594478, 51.04612833937913 ]
+      },
+      "naam": "Het Spectrum Gent",
+      "onderwijsnet": "OSG",
+      "gentid": "OND132",
+      "geo_point_2d": [ 51.0461283394, 3.71203853759 ],
+      "roepnaam": "Het Spectrum Gent",
+      "postcode": "9000",
+      "huisnr": "13",
+      "schoolnr": "116749",
+      "email": "spectrum@stad.gent",
+      "telefoon": "09-269.23.00"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.71203853759, 51.0461283394 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "fdea83ce587bd9f51281ccc798672bc65e0d31ba",
+    "fields": {
+      "website": "http://www.edugo.be",
+      "aanbod": "SO",
+      "schoolnummer": "127721",
+      "straat": "Eksaardserijweg",
+      "gemeente": "OOSTAKKER",
+      "vestigingsnr": "1",
+      "globalid": "002b8cc0-8f51-49c2-816b-ab6ca904f04b",
+      "zetel": "hoofdzetel",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.769500659106701, 51.08459348268895 ]
+      },
+      "naam": "EDUGO campus De Brug 2",
+      "onderwijsnet": "KO",
+      "gentid": "OND387",
+      "geo_point_2d": [ 51.0845934827, 3.76950065911 ],
+      "roepnaam": "EDUGO campus De Brug 2",
+      "postcode": "9041",
+      "huisnr": "24",
+      "schoolnr": "127721",
+      "email": "info.brug@edugo.be",
+      "telefoon": "09-255.91.13"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.76950065911, 51.0845934827 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "86de341497f2519f905be1731e653c3a32fecbfb",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "126433",
+      "straat": "Hundelgemsesteenweg",
+      "gemeente": "LEDEBERG",
+      "vestigingsnr": "2",
+      "globalid": "d23fa485-8e75-4c92-be78-d24e2b6e6a32",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.739277243485114, 51.03540883406609 ]
+      },
+      "naam": "BenedictusPoort campus Maria Middelares",
+      "onderwijsnet": "KO",
+      "gentid": "OND293",
+      "geo_point_2d": [ 51.0354088341, 3.73927724349 ],
+      "roepnaam": "BenedictusPoort campus Maria Middelares",
+      "postcode": "9050",
+      "huisnr": "93",
+      "schoolnr": "126433",
+      "telefoon": "09-231.23.48"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.73927724349, 51.0354088341 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  },
+  {
+    "datasetid": "locaties-secundaire-scholen-gent",
+    "recordid": "dd47810a62ab844bd220bfba84b0bd73135653d9",
+    "fields": {
+      "aanbod": "SO",
+      "schoolnummer": "115352",
+      "straat": "Heiveldstraat",
+      "gemeente": "SINT-AMANDSBERG",
+      "vestigingsnr": "2",
+      "globalid": "f7fdbc87-1153-47a8-944d-4905eff9b198",
+      "zetel": "vestiging",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 3.756278546651763, 51.06324821762313 ]
+      },
+      "naam": "Sint-Janscollege",
+      "onderwijsnet": "KO",
+      "gentid": "OND339",
+      "geo_point_2d": [ 51.0632482176, 3.75627854665 ],
+      "roepnaam": "Sint-Janscollege",
+      "postcode": "9040",
+      "huisnr": "117",
+      "schoolnr": "115352",
+      "email": "sjb.snb@scarlet.be",
+      "telefoon": "09-228.32.40"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 3.75627854665, 51.0632482176 ]
+    },
+    "record_timestamp": "2021-01-21T17:32:19.342000+00:00"
+  }
+]
