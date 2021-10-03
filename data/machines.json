@@ -1,0 +1,20 @@
+[
+  {
+    "fceObjectID": 15,
+    "name": "Particle Filter",
+    "size": [ 5, 3, 5 ],
+    "powerPerSec": 15,
+    "powerTransferPerSec": 10000,
+    "maxPower": 750,
+    "craftTime": 1
+  },
+  {
+    "id": 18,
+    "name": "Airlock Inner",
+    "size": [ 3, 3, 1 ],
+    "powerPerSec": 0,
+    "powerTransferPerSec": 0,
+    "maxPower": 0,
+    "craftTime": 0
+  }
+]
