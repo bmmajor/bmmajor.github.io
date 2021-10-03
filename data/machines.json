@@ -3,7 +3,7 @@
     "fceObjectNumber": 1,
     "machineName": "Ore Extractor",
     "size": [ 1, 1, 1 ],
-    "powerPerSec": 0.5,
+    "powerPerSec": 1,
     "powerTransferPerSec": 60,
     "maxPower": 500,
     "craftTime": 30
