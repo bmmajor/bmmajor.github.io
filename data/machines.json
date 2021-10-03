@@ -1,7 +1,34 @@
 [
   {
-    "fceObjectID": 15,
-    "name": "Particle Filter",
+    "fceObjectNumber": 1,
+    "machineName": "Ore Extractor",
+    "size": [ 1, 1, 1 ],
+    "powerPerSec": 0.5,
+    "powerTransferPerSec": 60,
+    "maxPower": 500,
+    "craftTime": 30
+  },
+  {
+    "fceObjectNumber": 2,
+    "machineName": "Ore Smelter",
+    "size": [ 1, 1, 1 ],
+    "powerPerSec": 15,
+    "powerTransferPerSec": 10000,
+    "maxPower": 128,
+    "craftTime": 15
+  },
+  {
+    "fceObjectNumber": 14,
+    "machineName": "Primary Upgrade Module Maker",
+    "size": [ 1, 1, 1 ],
+    "powerPerSec": 15,
+    "powerTransferPerSec": 10000,
+    "maxPower": 750,
+    "craftTime": 1
+  },
+  {
+    "fceObjectNumber": 15,
+    "machineName": "Particle Filter",
     "size": [ 5, 3, 5 ],
     "powerPerSec": 15,
     "powerTransferPerSec": 10000,
@@ -9,8 +36,8 @@
     "craftTime": 1
   },
   {
-    "id": 18,
-    "name": "Airlock Inner",
+    "fceObjectNumber": 18,
+    "machineName": "Airlock Inner",
     "size": [ 3, 3, 1 ],
     "powerPerSec": 0,
     "powerTransferPerSec": 0,
