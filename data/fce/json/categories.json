@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"name": "Mining",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/Mining.png"
+	},
+	{
+		"id": 2,
+		"name": "Smelting",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/Smelting.png"
+	},
+	{
+		"id": 3,
+		"name": "Power Storage",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/PowerStorage.png"
+	},
+	{
+		"id": 4,
+		"name": "Power Generation",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/PowerGeneration.png"
+	},
+	{
+		"id": 5,
+		"name": "Power Transmission",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/PowerTransmission.png"
+	},
+	{
+		"id": 6,
+		"name": "Logistics",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/Logistics.png"
+	},
+	{
+		"id": 7,
+		"name": "Storage",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/Storage.png"
+	},
+	{
+		"id": 8,
+		"name": "Progression",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/Progression.png"
+	},
+	{
+		"id": 9,
+		"name": "Arther Upgrades",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/ArtherUpgrades.png"
+	},
+	{
+		"id": 10,
+		"name": "Defenses",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/Defenses.png"
+	},
+	{
+		"id": 11,
+		"name": "Consumables",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/Consumables.png"
+	},
+	{
+		"id": 12,
+		"name": "Ingredients",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/Ingredients.png"
+	},
+	{
+		"id": 13,
+		"name": "Minecarts",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/Minecarts.png"
+	},
+	{
+		"id": 14,
+		"name": "Manufacturing",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/Manufacturing.png"
+	},
+	{
+		"id": 15,
+		"name": "Particulate Filtering",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/ParticulateFiltering.png"
+	},
+	{
+		"id": 16,
+		"name": "Decoration",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/Decoration.png"
+	},
+	{
+		"id": 17,
+		"name": "Robotics",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/Robotics.png"
+	},
+	{
+		"id": 18,
+		"name": "Rooms",
+		"img_src": "https://brankovanquickenborne.github.io/data/fce/pictures/Category/Rooms.png"
+	}
+]
