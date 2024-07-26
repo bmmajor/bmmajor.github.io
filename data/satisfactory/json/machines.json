@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Constructor"
+  },
+  {
+    "id": 2,
+    "name": "Assembler"
+  },
+  {
+    "id": 3,
+    "name": "Manufacturer"
+  },
+  {
+    "id": 4,
+    "name": "Packager"
+  },
+  {
+    "id": 5,
+    "name": "Refinery"
+  },
+  {
+    "id": 6,
+    "name": "Blender"
+  },
+  {
+    "id": 7,
+    "name": "Particle Accelator"
+  },
+  {
+    "id": 8,
+    "name": "Smelter"
+  },
+  {
+    "id": 9,
+    "name": "Foundry"
+  },
+  {
+    "id": 10,
+    "name": "Miner Mk.1"
+  },
+  {
+    "id": 11,
+    "name": "Miner Mk.2"
+  },
+  {
+    "id": 12,
+    "name": "Miner Mk.3"
+  },
+  {
+    "id": 13,
+    "name": "Water Extractor"
+  },
+  {
+    "id": 14,
+    "name": "Oil Extractor"
+  },
+  {
+    "id": 15,
+    "name": "Biomass Burner"
+  },
+  {
+    "id": 16,
+    "name": "Coal Generator"
+  },
+  {
+    "id": 17,
+    "name": "Fuel Generator"
+  },
+  {
+    "id": 18,
+    "name": "Nuclear Power Plant"
+  },
+  {
+    "id": 19,
+    "name": "Geothermal Generator"
+  },
+  {
+    "id": 20,
+    "name": "Power Storage"
+  },
+  {
+    "id": 20,
+    "name": "Oil Extractor"
+  }
+]

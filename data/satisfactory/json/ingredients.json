@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "amount": 1,
+    "isOutput": false,
+    "state": "Solid",
+    "componentID": 1,
+    "recipeID": 1
+  },
+  {
+    "id": 2,
+    "amount": 1,
+    "isOutput": true,
+    "state": "Solid",
+    "componentID": 2,
+    "recipeID": 1
+  },
+  {
+    "id": 3,
+    "amount": 7,
+    "isOutput": false,
+    "state": "Solid",
+    "componentID": 1,
+    "recipeID": 2
+  },
+  {
+    "id": 4,
+    "amount": 4,
+    "isOutput": false,
+    "state": "Liquid",
+    "componentID": 1,
+    "recipeID": 2
+  },
+  {
+    "id": 5,
+    "amount": 13,
+    "isOutput": true,
+    "state": "Solid",
+    "componentID": 2,
+    "recipeID": 2
+  },
+  {
+    "id": 6,
+    "amount": 2,
+    "isOutput": false,
+    "state": "Solid",
+    "componentID": 1,
+    "recipeID": 3
+  },
+  {
+    "id": 7,
+    "amount": 2,
+    "isOutput": false,
+    "state": "Solid",
+    "componentID": 5,
+    "recipeID": 3
+  },
+  {
+    "id": 8,
+    "amount": 5,
+    "isOutput": true,
+    "state": "Solid",
+    "componentID": 2,
+    "recipeID": 3
+  }
+]

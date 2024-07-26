@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Ore",
+    "description": "The most essential basic resource.",
+    "state": "Solid",
+    "img_src": "https://brankovanquickenborne.github.io/data/satisfactory/pictures/Component/IronOre.png"
+  },
+  {
+    "id": 2,
+    "name": "Iron Ingot",
+    "description": "Crafted into the most basic parts.",
+    "state": "Solid",
+    "img_src": "https://brankovanquickenborne.github.io/data/satisfactory/pictures/Component/IronIngot.png"
+  },
+  {
+    "id": 3,
+    "name": "Iron Plate",
+    "description": "One of the most basic parts.",
+    "state": "Solid",
+    "img_src": "https://brankovanquickenborne.github.io/data/satisfactory/pictures/Component/IronPlate.png"
+  },
+  {
+    "id": 4,
+    "name": "Iron Rod",
+    "description": "One of the most basic parts.",
+    "state": "Solid",
+    "img_src": "https://brankovanquickenborne.github.io/data/satisfactory/pictures/Component/IronRod.png"
+  },
+  {
+    "id": 5,
+    "name": "Copper Ore",
+    "description": "Basic resource mainly used for electricity.",
+    "state": "Solid",
+    "img_src": "https://brankovanquickenborne.github.io/data/satisfactory/pictures/Component/CopperOre.png"
+  },
+  {
+    "id": 6,
+    "name": "Copper Ingot",
+    "description": "Crafted into the most basic parts.",
+    "state": "Solid",
+    "img_src": "https://brankovanquickenborne.github.io/data/satisfactory/pictures/Component/CopperIngot.png"
+  },
+  {
+    "id": 7,
+    "name": "Wire",
+    "description": "One of the most basic parts.",
+    "state": "Solid",
+    "img_src": "https://brankovanquickenborne.github.io/data/satisfactory/pictures/Component/Wire.png"
+  },
+  {
+    "id": 8,
+    "name": "Cable",
+    "description": "Primarily used to build power lines.",
+    "state": "Solid",
+    "img_src": "https://brankovanquickenborne.github.io/data/satisfactory/pictures/Component/Cable.png"
+  },
+  {
+    "id": 9,
+    "name": "Limestone",
+    "description": "Basic resource mainly used for stable foundations.",
+    "state": "Solid",
+    "img_src": "https://brankovanquickenborne.github.io/data/satisfactory/pictures/Component/Wire.png"
+  },
+  {
+    "id": 10,
+    "name": "Concrete",
+    "description": "Good for stable foundations.",
+    "state": "Solid",
+    "img_src": "https://brankovanquickenborne.github.io/data/satisfactory/pictures/Component/Cable.png"
+  },
+
+  {
+    "id": 1001,
+    "name": "Test Object 1",
+    "description": "For testing purposes!",
+    "state": "Solid",
+    "img_src": "https://brankovanquickenborne.github.io/data/satisfactory/pictures/Component/TestObject1.png"
+  },
+  {
+    "id": 1002,
+    "name": "Test Object 2",
+    "description": "For testing purposes!",
+    "state": "Solid",
+    "img_src": "https://brankovanquickenborne.github.io/data/satisfactory/pictures/Component/TestObject2.png"
+  },
+  {
+    "id": 1003,
+    "name": "Test Object 3",
+    "description": "For testing purposes!",
+    "state": "Solid",
+    "img_src": "https://brankovanquickenborne.github.io/data/satisfactory/pictures/Component/TestObject3.png"
+  },
+  {
+    "id": 1004,
+    "name": "Test Object 4",
+    "description": "For testing purposes!",
+    "state": "Liquid",
+    "img_src": "https://brankovanquickenborne.github.io/data/satisfactory/pictures/Component/TestObject4.png"
+  },
+  {
+    "id": 1005,
+    "name": "Test Object 5",
+    "description": "For testing purposes!",
+    "state": "Gas",
+    "img_src": "https://brankovanquickenborne.github.io/data/satisfactory/pictures/Component/TestObject5.png"
+  }
+]

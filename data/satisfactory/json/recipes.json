@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Ingot",
+    "description": "Standard Recipe",
+    "productionTime": 2.0,
+    "machineID": 8
+  },
+  {
+    "id": 2,
+    "name": "Pure Iron Ingot",
+    "description": "Alternate Recipe 1",
+    "productionTime": 12.0,
+    "machineID": 5
+  },
+  {
+    "id": 3,
+    "name": "Iron Alloy Ingot",
+    "description": "Alternate Recipe 2",
+    "productionTime": 6.0,
+    "machineID": 9
+  },
+  {
+    "id": 4,
+    "name": "Iron Plate",
+    "description": "Standard Recipe",
+    "productionTime": 6.0,
+    "machineID": 1
+  },
+  {
+    "id": 5,
+    "name": "Coated Iron Plate",
+    "description": "Alternate Recipe 1",
+    "productionTime": 12.0,
+    "machineID": 2
+  },
+  {
+    "id": 6,
+    "name": "Steel Coated Plate",
+    "description": "Alternate Recipe 2",
+    "productionTime": 24.0,
+    "machineID": 2
+  },
+  {
+    "id": 7,
+    "name": "Iron Rod",
+    "description": "Standard Recipe",
+    "productionTime": 4.0,
+    "machineID": 1
+  },
+  {
+    "id": 8,
+    "name": "Steel Rod",
+    "description": "Alternate Recipe 1",
+    "productionTime": 5.0,
+    "machineID": 1
+  }
+]
